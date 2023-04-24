@@ -7,9 +7,13 @@ Hi! I'm ABEE 😄.
 ### My hobbies include ✨
 
 💻 writing automated testing scripts
+
 🏀 playing basketball
+
 🍔 eating burgers
+
 📺 watching reality shows
+
 💤 sleeping --> Of course, this is the most important 😂
 
 
